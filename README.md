@@ -4,4 +4,4 @@ The notes are for the following courses:
 
 Course | Notes
 :--- | :---
-[Intro to marketing](https://www.coursera.org/learn/wharton-marketing/) | [Notes](/intro_to_marketing)
+[Intro to marketing](https://www.coursera.org/learn/wharton-marketing/) | [Notes](/intro_marketing)
