@@ -256,9 +256,13 @@ Only precented on three principles.
 	- Price / Quality Inferences
 		- When quality differences exist between, but the user cannot distinguish them - a higher price signals higher quality
 - How to measure
+
 ![How to measure](http://i.imgur.com/crPSI56.png)
+
 - Example of an experiment on changing price and seeing associated demand
+
 ![Experiment](http://i.imgur.com/CFnP22j.png)
+
 - Conjoint analysis
 	- Presented different groups of people with Warby Parker glasses with varied pricing
 - Direct survey
@@ -275,3 +279,29 @@ Only precented on three principles.
 | Further discounted price ($0.59) | (406%) |
 
 - Note the non-linearity in this change.
+
+# The 7M's of marketing communication
+
+### Case Study
+- In the early 1990's, consumption of milk was going down very drastically
+- Studied their customers, most believed milk was healthy and enjoyed the taste
+- Came up with [this advertisement](https://www.youtube.com/watch?v=1IF_iDHQNdY)
+- **Market** people who currently drink milk
+- **Message content** make sure you have enough milk (it complements many other meals
+- **Mission** increase milk consumption by one glass per week within a year
+- **Messaged design** Got Milk? dperivation campaign
+- **Media stategy** tv, print
+- **Money spent** N/A
+- **Measurement** 60% aided recall in 3 months and 2.67% increase in annual sales (~$30M)
+
+### Definitions
+
+Category | Description
+:--- | :---
+Markets | Who should I talk to? Target segement
+Message content | What should I tell them? Key Benefit/Positioning
+Mission | What do we intend to achieve?
+Message design | How should I say it?
+Media strategy | How do I reach them?
+Money | How much do I need to spend?
+Measurement | Was it worth it?
