@@ -196,3 +196,82 @@ Only precented on three principles.
 	- Took a few hundred people from Nebraska and told them to get a letter to a random person in Boston but you can only send the letter to someone you know. It took 6 connections to get there, that's where the 6 degrees of separation came from.
 - Three degrees of influence
 	- After a message has been sent along the network, the influence of the originating node decays exponentially, and by third connection you have little to no influence
+
+# Pricing Strategies
+### Motivation and Puzzles
+- Many individuals perform cost-plus pricing which is wrong
+- Pricing can provide a huge opportunity to improve operating profit
+![Mckinsey pricing study](http://i.imgur.com/Hs7e770.png)
+#### Pricing puzzles
+- Trader Joe's
+	- Sells private products
+	- Imagine a set of dumplings cost $3.99
+		- Since it's a private label, you can't tell if it's expensive
+	- For comparable products, Trader Joe's prices extremely low (like water) so that differentiated products can be priced very expensive
+- Walmart
+	- Why does walmart price a detergent as $4.73?
+		- It shows that they have done **everything possible** to squeeze out profits for you
+- Catalog company
+	- A-B test where half of the individuals were given the $44 price vs. $49 - more people bought the $49 than the $44
+
+### Four inputs to pricing
+1. Marginal cost (the floor)
+2. Customer willingness to pay (the ceiling)
+	- Can't charge here due to competition
+3. Competition is the third factor that reduces ceiling
+4. Prices that have to be raised due to redistibutors, etc.
+
+### 5Cs and Pricing
+- Customers
+	- Price sensitivity (ie; price elasticity)
+	- Pychological issues (see below for more details)
+		- Odd numbered endings
+		- Mental accounting
+		- Prospect theory, loss aversion
+		- Endowment affect
+- Company
+	- Financial considerations
+		- Target margin or internal rate of return
+	- Consistency in the product line
+		- Camry vs. accord
+	- Consistency in Image
+		- Neiman Marcus can't really cut prices due to hit's high value perception
+- Collaborators
+	- How hard will the collaborator work to "push" your product
+- Competitors
+	- Competitor aggressiveness (how far will they cut)
+	- Willingness to respond on price
+		- Direct financial cost to the competitor
+	- Competitor position
+		- Market leaders are more likely to initiate; followers are more likely to imitate and reduce price
+- Context (not discussed)
+
+### Price sensitivity
+- Affected by
+	- Ease of comparison (if I can easily compare prices, the product is more elastic) 
+	- Expenditure size
+	- Large volume users tend to be more price sensitive
+	- Shared expenses
+		- Separation between the buyer and the payers
+	- Price / Quality Inferences
+		- When quality differences exist between, but the user cannot distinguish them - a higher price signals higher quality
+- How to measure
+![How to measure](http://i.imgur.com/crPSI56.png)
+- Example of an experiment on changing price and seeing associated demand
+![Experiment](http://i.imgur.com/CFnP22j.png)
+- Conjoint analysis
+	- Presented different groups of people with Warby Parker glasses with varied pricing
+- Direct survey
+	- If you ask people "what are you willing to pay" is dangerous, will be biased to low price
+	- Instead, ask "for this product at price x, on a scale of 1-10, how likely are you to buy?" with different values of x
+- Pyschological Factors
+	- 9 endings usually suggest that it's a discount in western cultures
+	- Experiment effect of advertised price endings on sales of butter
+
+| Category | Sales |
+| :--- | :--- |
+| Regular price ($0.83) |  100% (2817 units) |
+| Discount price ($0.63) | 194% |
+| Further discounted price ($0.59) | (406%) |
+
+- Note the non-linearity in this change.
