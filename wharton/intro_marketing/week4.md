@@ -72,7 +72,7 @@
 	- Investors
 		- Can cause subconscious judgements about the company's merits/strengths
 
-![](http://imgur.com/49HGVHZ)
+![](http://imgur.com/49HGVHZ.png)
 
 - Value of a Good Name
 - Names for New Start-ups
@@ -255,7 +255,7 @@ Consistency theories: summary
 		- New products
 - Can make these little tweaks with just a noticeable difference
 
-![](http://imgur.com/i3TLwBR)
+![](http://imgur.com/i3TLwBR.png)
 
 - Other way you can do it is via the "buttefly effect"
 	- "I'm deliberately doing this to make the brand fresh"
